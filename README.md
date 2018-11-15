@@ -1,7 +1,3 @@
 # test
-sdfgsdfg
-sdfg
-sdf
-gsdf
-gsdf
-gsfdg
+
+[For details](doc/ttt.md)
